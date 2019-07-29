@@ -6,3 +6,5 @@ In The project i design a virtual 3D graphic scene, which includes physical elem
 
 For the best and fast performance, I add multithread and and additionally i use 3DDDA Grid algoritem.
 The project emphasizes the principles of software architecture and OOP (TDD,Agile Development and Design Patterns).
+
+(Ray-Tracer/miniProject.jpg)
